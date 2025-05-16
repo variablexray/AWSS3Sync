@@ -75,4 +75,7 @@ After clicking "Start Sync", any file created, modified, or deleted in `C:\Data`
 - **Missing Dependencies**: Install `boto3` and `watchdog` using pip if you encounter import errors.
 
 ## License
-This project is provided as-is, with no warranty. Feel free to modify and distribute as needed.
+This project shall be issued free of charge and is offered under the MIT License.
+
+## Support
+Not necessary, but if you want to buy me a beer: [PayPal](paypal.me/variablexray)
